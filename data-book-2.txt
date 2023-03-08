@@ -1,0 +1,71 @@
+10
+Dungeons & Dragons Player's Handbook 
+book
+WOTC
+9780786965601
+1
+48.73
+---
+Dungeon Master's Guide
+book
+WOTC
+9780786965625
+1
+47.80
+---
+Blood, Sweat, and Pixels : The Triumphant, Turbulent Stories Behind How Video Games are Made
+book
+Jason Schreier
+9780062651235
+2
+12.71
+---
+Video Game Storytelling
+book
+E Skolnick
+9780385345828
+2
+18.07
+---
+How to Do Things with Videogames
+book
+Ian Bogost
+9780816676477
+1
+19.97
+---
+Persuasive Games : The Expressive Power of Videogames
+book
+Ian Bogost
+9780262514880
+2
+28.73
+---
+Press Reset : Ruin and Recovery in the Video Game Industry
+book
+Jason Schreier
+9781538735497
+2
+15.68
+---
+Homo Ludens : A Study of the Play-Element in Culture
+book
+Johan Huizinga
+9781614277064
+2
+16.14
+---
+Complete Esperanto : Learn to read, write, speak and understand Esperanto
+book
+Tim Owen
+9781473669185
+2
+34.58
+---
+A Complete Grammar Of Esperanto : The International Language
+book
+Ivy Kellerman Reed
+9789353420161
+2
+17.77
+---

@@ -1,0 +1,51 @@
+
+----------------------------------------------------------------------------------------------------
+Test_StoreItems
+
+********************************************************************************
+[pass] TEST: void StoreItem::SetName( string name )
+* Calling storeItem.SetName( "abcd" );
+* Expecting storeItem.m_name to be: "abcd"
+* Actual value of storeItem.m_name: "abcd"
+
+********************************************************************************
+[pass] TEST: string StoreItem::GetName()
+* Setting storeItem.m_name to "abcd".
+* Expecting storeItem.GetName() to return: "abcd"
+* Actual return of storeItem.GetName():    "abcd"
+
+********************************************************************************
+[pass] TEST: void StoreItem::SetProductType( string productType )
+* Calling storeItem.SetProductType( "abcd" );
+* Expecting storeItem.m_productType to be: "abcd"
+* Actual value of storeItem.m_productType: "abcd"
+
+********************************************************************************
+[pass] TEST: string StoreItem::GetProductType()
+* Setting storeItem.m_productType to "abcd".
+* Expecting storeItem.GetProductType() to return: "abcd"
+* Actual return of storeItem.GetProductType():    "abcd"
+
+********************************************************************************
+[pass] TEST: void StoreItem::SetPrice( float price )
+* Calling storeItem.SetPrice( 9.99 );
+* Expecting storeItem.m_price to be: 9.99
+* Actual value of storeItem.m_price: 9.99
+
+********************************************************************************
+[pass] TEST: float StoreItem::GetPrice()
+* Setting storeItem.m_price to "11.22".
+* Expecting storeItem.GetPrice() to return: 11.22
+* Actual return of storeItem.GetPrice():    11.22
+
+********************************************************************************
+[pass] TEST: string StoreItem::GetName()
+* Setting storeItem.m_name to "abcd".
+* Expecting storeItem.GetName() to return: "abcd"
+* Actual return of storeItem.GetName():    "abcd"
+
+
+TEST RESULTS:
+7 total tests ran
+7 tests passed
+0 tests failed

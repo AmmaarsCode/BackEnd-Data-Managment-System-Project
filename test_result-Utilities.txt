@@ -1,0 +1,43 @@
+
+----------------------------------------------------------------------------------------------------
+Test_Utilities
+
+********************************************************************************
+[pass] TEST: float CalculatePricePlusTax( float price, float taxPercent )
+* Setting price input to "5".
+* Setting taxPercent input to "25".
+* Expecting CalculatePricePlusTax() to return: "6.25"
+* Actual return of CalculatePricePlusTax():    "6.25"
+
+********************************************************************************
+[pass] TEST: bool IsValidInput( int choice, int min, int max )
+* Setting choice input to "5".
+* Setting min input to "1".
+* Setting max input to "10".
+* (note, 0 = false, 1 = true)
+* Expecting IsValidInput() to return: "1"
+* Actual return of IsValidInput():    "1"
+
+********************************************************************************
+[pass] TEST: bool IsValidInput( int choice, int min, int max )
+* Setting choice input to "5".
+* Setting min input to "10".
+* Setting max input to "15".
+* (note, 0 = false, 1 = true)
+* Expecting IsValidInput() to return: "0"
+* Actual return of IsValidInput():    "0"
+
+********************************************************************************
+[pass] TEST: bool IsValidInput( int choice, int min, int max )
+* Setting choice input to "4".
+* Setting min input to "1".
+* Setting max input to "3".
+* (note, 0 = false, 1 = true)
+* Expecting IsValidInput() to return: "0"
+* Actual return of IsValidInput():    "0"
+
+
+TEST RESULTS:
+4 total tests ran
+4 tests passed
+0 tests failed

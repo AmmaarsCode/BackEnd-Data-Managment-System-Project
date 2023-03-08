@@ -1,0 +1,75 @@
+
+----------------------------------------------------------------------------------------------------
+Test_Books
+
+********************************************************************************
+[pass] TEST: void Book::SetAuthor( string author )
+* Calling book.SetName( "Bob McBobert" );
+* Expecting book.m_name to be: "Bob McBobert"
+* Actual value of book.m_name: "Bob McBobert"
+
+********************************************************************************
+[pass] TEST: string Book::GetAuthor()
+* Setting book.m_author to "Bob McBobert".
+* Expecting book.GetAuthor() to return: "Bob McBobert"
+* Actual return of book.GetAuthor():    "Bob McBobert"
+
+********************************************************************************
+[pass] TEST: void Book::SetAuthor( string author )
+* Calling book.SetName( "Bob McBobert" );
+* Expecting book.m_author to be: "Bob McBobert"
+* Actual value of book.m_author: "Bob McBobert"
+
+********************************************************************************
+[pass] TEST: string Book::GetAuthor()
+* Setting book.m_author to "Bob McBobert".
+* Expecting book.GetAuthor() to return: "Bob McBobert"
+* Actual return of book.GetAuthor():    "Bob McBobert"
+
+********************************************************************************
+[pass] TEST: void Book::SetIsbn13( string isbn13 )
+* Calling book.SetName( "978-0135957059" );
+* Expecting book.m_isbn13 to be: "978-0135957059"
+* Actual value of book.m_isbn13: "978-0135957059"
+
+********************************************************************************
+[pass] TEST: string Book::GetAuthor()
+* Setting book.m_isbn13 to "978-0135957059".
+* Expecting book.GetIsbn13() to return: "978-0135957059"
+* Actual return of book.GetIsbn13():    "978-0135957059"
+
+********************************************************************************
+[pass] TEST: void Book::SetCoverType( int coverType )
+* Calling book.SetCoverType( "2" );
+* Expecting book.m_coverType to be: "2"
+* Actual value of book.m_coverType: "2"
+
+********************************************************************************
+[pass] TEST: int Book::GetCoverType()
+* Setting book.m_coverType to "1".
+* Expecting book.GetCoverType() to return: "1"
+* Actual return of book.GetCoverType():    "1"
+
+********************************************************************************
+[pass] TEST: string Book::GetCoverTypeString()
+* Setting book.m_coverType to "1".
+* Expecting book.GetCoverTypeString() to return: "Hardcover"
+* Actual return of book.GetCoverTypeString():    "Hardcover"
+
+********************************************************************************
+[pass] TEST: string Book::GetCoverTypeString()
+* Setting book.m_coverType to "2".
+* Expecting book.GetCoverTypeString() to return: "Paperback"
+* Actual return of book.GetCoverTypeString():    "Paperback"
+
+********************************************************************************
+[pass] TEST: string Book::GetCoverTypeString()
+* Setting book.m_coverType to "5".
+* Expecting book.GetCoverTypeString() to return: "Unknown"
+* Actual return of book.GetCoverTypeString():    "Unknown"
+
+
+TEST RESULTS:
+11 total tests ran
+11 tests passed
+0 tests failed

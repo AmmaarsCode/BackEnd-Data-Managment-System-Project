@@ -1,0 +1,28 @@
+4
+Extra Lives: Why Video Games Matter
+Book
+Tom Bissell
+978-0307474315
+2
+14.59
+---
+The Pragmatic Programmer
+Book
+David Thomas
+978-0135957059
+1
+28.75
+---
+Head First Design Patterns
+Book
+Eric Freeman
+978-0596007126
+2
+24.10
+---
+Effective C++
+Book
+Scott Meyers
+978-0321334879
+2
+22.93
